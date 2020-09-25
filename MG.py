@@ -12,7 +12,6 @@ from datetime import datetime
 
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud 
-from tqdm import tqdm 
 
 import matplotlib.dates     as mdates
 from matplotlib.colors      import ColorConverter, ListedColormap
